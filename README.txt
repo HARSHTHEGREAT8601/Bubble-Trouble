@@ -1,9 +1,5 @@
-Demo Video Drive Link:https://drive.google.com/drive/folders/1q0JRj2f271jOs2nrNRNc-VsDQg6kftHa?usp=sharing
-
-
-
+Demo Video Drive Link:https://drive.google.com/drive/folders/1U6aWDqZBxJEA5zr8TBEKhC8kKssM4Prr?usp=sharing
 About Game and its features:
-
 How to play:
   -move shooter left/right by pressing "a"/"d" keys on keyboard.
   -pressing "w" will shoot bullet.
@@ -11,14 +7,12 @@ How to play:
   -You will also get timer. You must complete game before time reaches 50;
   -Score will increase with each collision between bullet and bubble.
   -If you want to quit in between press "q" to leave.
-
 Implemented Required features:
   -Bubbles now have parabolic motion with verticle velocity. They bounce off when collides with upper or lower surface.
   -Collision between bubble and shooter will decrease health by 1 and shoot will become red after collision for some time.Also when shooter is red it can't move or shoot.
   -Collision between bubble and bullet will increase score by 1 and split big bubble in 2 smaller bubbles of half radius.While collision will make small bubbles disappear. 
   -Bullet also disappears when it collides with any bubble.
   -Game ends when all bubbles are eliminated.
-
 Implemented extra features:
   -Large bubbles split into smaller ones of half radius after collision. 
   -These two smaller bubbles will move in opposite horizontal direction. While they both will have same vertical velocity as their parent big bubble. 
