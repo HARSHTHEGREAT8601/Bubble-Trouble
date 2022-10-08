@@ -1,4 +1,4 @@
-Demo Video Drive Link:https://drive.google.com/drive/folders/1U6aWDqZBxJEA5zr8TBEKhC8kKssM4Prr?usp=sharing
+Demo Video Drive Link:https://drive.google.com/drive/folders/1U6aWDqZBxJEA5zr8TBEKhC8kKssM4Prr
 About Game and its features:
 How to play:
   -move shooter left/right by pressing "a"/"d" keys on keyboard.
